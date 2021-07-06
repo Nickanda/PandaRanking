@@ -81,7 +81,7 @@ class ClientFunctions {
 			.setColor(color)
 			.setDescription(description);
 
-		message.channel.send({ embed });
+		msg.channel.send({ embed });
 	}
 
 }

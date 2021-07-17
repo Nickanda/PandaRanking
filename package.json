@@ -28,6 +28,7 @@
   "devDependencies": {
     "bufferutil": "^4.0.3",
     "erlpack": "github:discord/erlpack",
+    "eslint": "^7.30.0",
     "utf-8-validate": "^5.0.5",
     "zlib-sync": "^0.1.7"
   }
